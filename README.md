@@ -2,7 +2,7 @@
 Aspiring Software Developer | Full Stack Web Developer | MCA Student
 
 ## 🛠 Skills
-- Java, Spring Boot, REST APIs  
+- Java, Spring Boot, REST APIs 
 - MERN Stack (MongoDB, Express.js, ReactJS, Node.js)  
 - HTML, CSS, JavaScript  
 - MySQL, MongoDB  
