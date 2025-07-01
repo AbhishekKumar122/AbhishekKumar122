@@ -13,7 +13,7 @@ Aspiring Software Developer | Full Stack Web Developer | MCA Student
 - Completed **Cisco Networking** internship  
 
 ## 📂 Projects
-- 📘 [NoteStack](https://github.com/AbhishekKumar122/NoteStack) – Full-stack notes app (React + Express + MongoDB)  
+- 📘 [NoteStack](https://github.com/AbhishekKumar122/NoteStack) – Full-stack notes app (React + Express + Node + MongoDB)  
 - 📰 [Newsmania](https://github.com/AbhishekKumar122/my-NewsMania) – ReactJS news aggregator  
 - 🧮 [TextUtils](https://github.com/AbhishekKumar122/TextUtils.react) – Text utility app with basic operations  
 
