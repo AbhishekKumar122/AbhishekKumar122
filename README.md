@@ -6,8 +6,8 @@ Aspiring Software Developer | Full Stack Web Developer | MCA Student
 - MERN Stack (MongoDB, Express.js, ReactJS, Node.js)  
 - HTML, CSS, JavaScript  
 - MySQL, MongoDB  
-- Git, GitHub  
-
+- Git, GitHub
+- 
 ## 💼 Experience
 - Interned at **MPSEDC** using Java & Spring Boot for web development  
 - Completed **Cisco Networking** internship  
