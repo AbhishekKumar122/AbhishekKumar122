@@ -5,7 +5,7 @@ Aspiring Software Developer | Full Stack Web Developer | MCA Student
 - Java, Spring Boot, REST APIs
 - MERN Stack (MongoDB, Express.js, ReactJS, Node.js)  
 - HTML, CSS, JavaScript  
-- MySQL, MongoDB  
+- MySQL, MongoDB 
 - Git, GitHub
 - 
 ## 💼 Experience
