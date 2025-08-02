@@ -20,7 +20,7 @@ Aspiring Software Developer | Full Stack Web Developer | MCA Student
 ## 🏆 Achievements
 - Achieved **4th rank** in MCA program at LNCT University.
 - Solved **200+ problems** on **LeetCode** (Focused on Data Structures & Algorithms)  
-- Certified in **Java & Web Development** from **Coursera**
+- Certified in **Java & Web Development** from **Coursera** 
 
 ## 📫 Let's connect!
 [Portfolio](https://cerulean-conkies-15ea83.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-7a3611283) | [Email](mailto:abhihariyale22@gmail.com)
